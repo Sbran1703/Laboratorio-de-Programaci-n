@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\bin\Debug\L2SOB1022723.exe.config
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\bin\Debug\L2SOB1022723.exe
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\bin\Debug\L2SOB1022723.pdb
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\obj\Debug\L2SOB1022723.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\obj\Debug\L2SOB1022723.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\obj\Debug\L2SOB1022723.exe
+C:\Users\Estudiante\source\repos\L2SOB1022723\L2SOB1022723\obj\Debug\L2SOB1022723.pdb
