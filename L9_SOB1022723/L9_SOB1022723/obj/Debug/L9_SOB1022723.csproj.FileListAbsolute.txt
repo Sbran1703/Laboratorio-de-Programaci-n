@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\bin\Debug\L9_SOB1022723.exe.config
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\bin\Debug\L9_SOB1022723.exe
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\bin\Debug\L9_SOB1022723.pdb
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\obj\Debug\L9_SOB1022723.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\obj\Debug\L9_SOB1022723.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\obj\Debug\L9_SOB1022723.exe
+C:\Users\Estudiante\Documents\L9_SOB1022723\L9_SOB1022723\obj\Debug\L9_SOB1022723.pdb
