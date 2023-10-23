@@ -1,0 +1,15 @@
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/bin/Debug/net7.0/LAB10_SOB_1022723
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/bin/Debug/net7.0/LAB10_SOB_1022723.deps.json
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/bin/Debug/net7.0/LAB10_SOB_1022723.runtimeconfig.json
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/bin/Debug/net7.0/LAB10_SOB_1022723.dll
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/bin/Debug/net7.0/LAB10_SOB_1022723.pdb
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.csproj.AssemblyReference.cache
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.GeneratedMSBuildEditorConfig.editorconfig
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.AssemblyInfoInputs.cache
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.AssemblyInfo.cs
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.csproj.CoreCompileInputs.cache
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.dll
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/refint/LAB10_SOB_1022723.dll
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.pdb
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/LAB10_SOB_1022723.genruntimeconfig.cache
+/Users/io/Documents/LAB10_SOB_1022723/LAB10_SOB_1022723/obj/Debug/net7.0/ref/LAB10_SOB_1022723.dll
